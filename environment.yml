@@ -17,14 +17,17 @@ dependencies:
   - python-dateutil
   - pyinstaller
   - pandas
-  - glob
+  # - glob
   - cartopy
-  - io
+  # - io
   - setuptools
   - matplotlib
   - certifi
   - pip
-  - sys
+  # - sys
+  - sharppy
+  - ipython
+  - notebook
   - pip:
     - sphinx-prompt
     - pydocstyle
